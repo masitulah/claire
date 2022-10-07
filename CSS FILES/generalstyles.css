@@ -1,0 +1,145 @@
+* {
+    color: rgb(2, 13, 27);
+    font-size: 20px;
+    /*background-color: aqua;*/
+
+}
+
+H1 {
+    color: darkorange;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40PX;
+}
+
+.pstyles {
+    font-weight: 300;
+    background-color: bisque;
+    font-size: 30px;
+    font-family: arial narrow;
+    font-weight: bolder;
+
+}
+
+img {
+
+    width: 60%;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+    float: right;
+    padding: 10px;
+    background-color: blueviolet;
+    display: inline-table;
+}
+
+li {
+
+
+    display: inline-table;
+    float: left;
+    margin-right: 5px;
+    background-color: azure;
+    color: brown;
+}
+
+li:hover {
+    background-color: black;
+    color: bisque;
+}
+
+.olstyles {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+.maindiv {
+    /*background-color: blueviolet;*/
+    width: 50%;
+    margin-left: 10%;
+    padding: 10px;
+}
+
+sideimage {
+    width: 20%;
+    height: 70px;
+    border: 2px solid black
+}
+
+.sidep {
+    float: right;
+}
+
+div.m {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    float: left;
+}
+
+.img {
+    width: 20%;
+    height: auto;
+    margin-right: 7px;
+}
+
+.para {
+    border: 2px solid;
+}
+
+div.b {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    float: left;
+
+}
+
+div.l {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    float: left;
+}
+
+div.p {
+    border: 4px solid gold;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+
+li {
+    margin-bottom: 20px;
+}
+
+li a {
+    color: lightsalmon;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li a :hover {
+    background-color: darkslategray;
+    color: blanchedalmond;
+
+}
+
+.active {
+    background-color: rgb(25, 0, 255);
+    color: antiquewhite;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;

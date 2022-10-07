@@ -1,0 +1,128 @@
+* {
+    color: blue;
+    /*background-color: aqua;*/
+
+}
+
+#h1styles {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: none;
+}
+
+.pstyles {
+    font-weight: 300;
+    background-color: bisque;
+    font-size: 40px;
+
+}
+
+.olstyles {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+.maindiv {
+    /*background-color: blueviolet;*/
+    width: 50%;
+    margin-left: 10%;
+    padding: 10px;
+}
+
+sideimage {
+    width: 20%;
+    height: 70px;
+    border: 2px solid black
+}
+
+.sidep {
+    float: right;
+}
+
+div.m {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    float: left;
+}
+
+.img {
+    width: 20%;
+    height: auto;
+    margin-right: 7px;
+}
+
+.para {
+    border: 2px solid;
+}
+
+div.b {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    float: left;
+
+}
+
+div.l {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    float: left;
+}
+
+div.p {
+    border: 4px solid gold;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+li a {
+    color: lightsalmon;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+li a :hover {
+    background-color: darkslategray;
+    color: blanchedalmond;
+    width: 30px;
+}
+
+.active {
+    background-color: darkorange;
+    color: antiquewhite;
+}
+
+.QQ {
+    background-image: image;
+}
+
+.h1styles {
+    color: black;
+    text-decoration: solid;
+}
+
+p {
+    font-size: 10px;
+    color: red;
+}
